@@ -19,6 +19,7 @@ public class PrimerProyecto {
         System.out.println("Proyecto para compartir");
         //HABEMUS PROYECTO
         //Cada uno cree las clases que acordamos en el paquete PrimerProyecto
+        //huehuehuehue
     }
     
 }
